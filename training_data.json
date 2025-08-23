@@ -1,0 +1,41 @@
+{
+  "text_completion": [
+    {"input": "the weather is", "target": "the weather is nice"},
+    {"input": "i like to", "target": "i like to read"},
+    {"input": "good morning", "target": "good morning sunshine"},
+    {"input": "thank you", "target": "thank you very much"},
+    {"input": "how are", "target": "how are you doing"}
+  ],
+  
+  "simple_conversations": [
+    {"input": "hello", "target": "hello there"},
+    {"input": "goodbye", "target": "goodbye friend"},
+    {"input": "yes", "target": "yes indeed"},
+    {"input": "no problem", "target": "no problem at all"},
+    {"input": "see you", "target": "see you later"}
+  ],
+  
+  "code_patterns": [
+    {"input": "for i in", "target": "for i in range"},
+    {"input": "if x", "target": "if x equals y"},
+    {"input": "def function", "target": "def function name"},
+    {"input": "import", "target": "import library"},
+    {"input": "print", "target": "print hello world"}
+  ],
+  
+  "story_beginnings": [
+    {"input": "once upon", "target": "once upon a time"},
+    {"input": "the brave", "target": "the brave knight"},
+    {"input": "in the", "target": "in the dark forest"},
+    {"input": "suddenly", "target": "suddenly there was"},
+    {"input": "long ago", "target": "long ago in"}
+  ],
+  
+  "factual_completions": [
+    {"input": "water boils", "target": "water boils at 100"},
+    {"input": "earth has", "target": "earth has one moon"},
+    {"input": "cats are", "target": "cats are mammals"},
+    {"input": "fire is", "target": "fire is hot"},
+    {"input": "ice is", "target": "ice is cold"}
+  ]
+}
